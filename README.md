@@ -2,6 +2,7 @@
 
 ## Fireball
 
+[live demo](https://zhiyi1801.github.io/hw01-fireball/)
 ### Results preview:
 ![](img/fireball.gif)
 
